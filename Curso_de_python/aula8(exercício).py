@@ -1,7 +1,7 @@
 nome = "Pedro"
 Sobrenome = "Venancio"
-idade = 8
-ano_nascimento = 2008
+idade = 16
+ano_nascimento = 2025 - idade
 maior_de_idade = 8 >= 18
 altura_metros = 1.2
 
